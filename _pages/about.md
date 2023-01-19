@@ -8,23 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+Welcome! I am a first year PhD student at [LAMSADE](https://www.lamsade.dauphine.fr/), at [Université Paris Dauphine](https://dauphine.psl.eu/).
+My PhD is supervised by prof. [Michael Lampis](https://www.lamsade.dauphine.fr/~mlampis/index.html).
+My research interests lie in the area of Theoretical Computer Science,
+and in particular appriximation/parameterized algorithms as well as fine-grained complexity.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+Before joining LAMSADE, I received a diploma in [Electrical and Computer Engineering](https://www.ece.ntua.gr/en),
+from the [National Technical University of Athens](https://www.ntua.gr/en/),
+where I was supervised by prof. [Aris Pagourtzis](http://users.softlab.ntua.gr/~pagour/).
